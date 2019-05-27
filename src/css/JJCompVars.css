@@ -1,0 +1,17 @@
+jj-input-number {
+   --border-color: var(--primary);
+   --increment-color: var(--secondary);
+   --decrement-color: var(--secondary);
+   --font: var(--font-family-monospace);
+}
+
+jj-slider {
+   --slider-width: 75%;
+   --runway-color: var(--secondary);
+   --bar-color: var(--primary);
+   --button-color: var(--white);
+   --button-border-color: var(--primary);
+   --tooltip-color: var(--dark);
+   --tooltip-text-color: var(--white);
+   --tooltip-font: var(--font-family-sans-serif);
+}
